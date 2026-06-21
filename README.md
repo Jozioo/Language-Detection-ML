@@ -48,3 +48,9 @@ scikit-learn>=1.0.0
 joblib>=1.1.0
 notebook>=6.4.0
 ```
+
+## Cara Run App
+
+```
+streamlit run app.py
+```
