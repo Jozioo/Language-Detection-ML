@@ -21,7 +21,7 @@ project/
     └── knn_pipeline.pkl                   # Pembanding 4
 ```
 
-## ⚙️ Persyaratan Sistem
+## Persyaratan Sistem
 
 ### Python Version
 ```
